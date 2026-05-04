@@ -1,0 +1,8 @@
+{
+  "name": "real-world-asset-tokenizer",
+  "version": "1.0.0",
+  "description": "RWA Tokenization and Dividend logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
